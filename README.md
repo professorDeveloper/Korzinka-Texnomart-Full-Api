@@ -14,9 +14,10 @@
 - Cross Platform
 
 
-## Demo App
-<video src='assets/video/korzinkavideo.mp4' width=200/>
+## Demo
 
+    
+assets/video/korzinkavideo.mp4
 ## Run Locally
 
 Clone the project
