@@ -14,9 +14,6 @@
 - Cross Platform
 
 
-## Demo
-
-https://user-images.githubusercontent.com/16564273/125283630-9845d180-e2e6-11eb-8b7d-f30a8f2eae8a.mp4
     
 ## Run Locally
 
@@ -59,4 +56,8 @@ I'm a Android and Flutter  developer...
 - Additional browser support
 
 - Add more integrations
+
+## Demo
+
+<video src='https://user-images.githubusercontent.com/108933534/223395743-73c5e73d-4738-4ba6-aa88-128c01050afa.mp4' width=200/>
 
