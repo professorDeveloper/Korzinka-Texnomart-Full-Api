@@ -1,16 +1,61 @@
-# karzinka_full
 
-A new Flutter project.
+# Korzinka-Full-API
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+![Logo](https://user-images.githubusercontent.com/108933534/223389983-245669ae-b54e-4258-a1ec-6a98a9b5bfeb.jpg)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Features
+
+- Category
+- Search Product
+- BottomNavigationView 
+- Cross Platform
+
+
+## Demo App
+<video src='assets/video/korzinkavideo.mp4' width=200/>
+
+## Run Locally
+
+Clone the project
+
+```bash
+  git clone https://github.com/professorDeveloper/Korzinka-Texnomart-Full-Api
+```
+
+Go to the project directory
+
+```bash
+  cd Korzinka-Texnomart-Full-Api
+```
+
+Install dependencies
+
+```bash
+  flutter pub get
+```
+
+Start the Application
+
+```bash
+  flutter run
+```
+
+
+## 🚀 About Me
+I'm a Android and Flutter  developer...
+
+
+## Authors
+
+- [@professorDeveloper](https://www.github.com/professorDeveloper)
+
+
+## Roadmap
+
+- Additional browser support
+
+- Add more integrations
+
